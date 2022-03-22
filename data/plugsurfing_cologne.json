@@ -1,0 +1,356 @@
+[
+    {
+        "connectors": [
+            {
+                "id": 103416,
+                "apiIdentifier": "+49*809*010*151840",
+                "speed": 50,
+                "powerType": "DC"
+            },
+            {
+                "id": 103813,
+                "apiIdentifier": "+49*809*010*151841",
+                "speed": 50,
+                "powerType": "DC"
+            },
+            {
+                "id": 104396,
+                "apiIdentifier": "+49*809*010*151842",
+                "speed": 7.4,
+                "powerType": "AC1"
+            },
+            {
+                "id": 114815,
+                "apiIdentifier": "+49*809*010*151842",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 158334,
+                "apiIdentifier": "+49*809*010*151842",
+                "speed": 43,
+                "powerType": "AC3"
+            }
+        ],
+        "utilization": 0,
+        "id": 50066,
+        "provider": {},
+        "deletedAt": null,
+        "latitude": 51.017291,
+        "longitude": 7.079094
+    },
+    {
+        "connectors": [
+            {
+                "id": 195157,
+                "apiIdentifier": "NL*EVB*EEVBP1543596*B1616203",
+                "speed": 11,
+                "powerType": "AC3"
+            },
+            {
+                "id": 196614,
+                "apiIdentifier": "NL*EVB*EEVBP1543596*B1616204",
+                "speed": 11,
+                "powerType": "AC3"
+            }
+        ],
+        "utilization": 0,
+        "id": 107768,
+        "provider": {},
+        "deletedAt": null,
+        "latitude": 51.014536,
+        "longitude": 6.986981
+    },
+    {
+        "connectors": [
+            {
+                "id": 262217,
+                "apiIdentifier": "DE*AA1*EN1025",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 262218,
+                "apiIdentifier": "DE*AA1*EN1025*2",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 262219,
+                "apiIdentifier": "DE*AA1*EN1025*3",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 262220,
+                "apiIdentifier": "DE*AA1*EN1025*1",
+                "speed": 22,
+                "powerType": "AC3"
+            }
+        ],
+        "utilization": 0,
+        "id": 133063,
+        "provider": {},
+        "deletedAt": null,
+        "latitude": 51.020854,
+        "longitude": 7.089893
+    },
+    {
+        "connectors": [
+            {
+                "id": 266412,
+                "apiIdentifier": "DEALLEGO0002423",
+                "speed": 43,
+                "powerType": "AC3"
+            },
+            {
+                "id": 266418,
+                "apiIdentifier": "DEALLEGO0002421",
+                "speed": 50,
+                "powerType": "DC"
+            },
+            {
+                "id": 266419,
+                "apiIdentifier": "DEALLEGO0002422",
+                "speed": 50,
+                "powerType": "DC"
+            }
+        ],
+        "utilization": 0,
+        "id": 134270,
+        "provider": {},
+        "deletedAt": null,
+        "latitude": 51.024628,
+        "longitude": 7.015235
+    },
+    {
+        "connectors": [
+            {
+                "id": 307562,
+                "apiIdentifier": "DE*DES*E*BMW*0361*1",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 307563,
+                "apiIdentifier": "DE*DES*E*BMW*0361*2",
+                "speed": 22,
+                "powerType": "AC3"
+            }
+        ],
+        "utilization": 0,
+        "id": 146541,
+        "provider": {},
+        "deletedAt": null,
+        "latitude": 50.976487,
+        "longitude": 7.003912
+    },
+    {
+        "connectors": [
+            {
+                "id": 316754,
+                "apiIdentifier": "DEKFM*E48139000",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 316755,
+                "apiIdentifier": "DEKFM*E48138999",
+                "speed": 22,
+                "powerType": "AC3"
+            }
+        ],
+        "utilization": 0,
+        "id": 150084,
+        "provider": {},
+        "deletedAt": null,
+        "latitude": 50.9924424,
+        "longitude": 7.092512
+    },
+    {
+        "connectors": [
+            {
+                "id": 451065,
+                "apiIdentifier": "DE*TNK*E200002*01",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451066,
+                "apiIdentifier": "DE*TNK*E200002*02",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451067,
+                "apiIdentifier": "DE*TNK*E200003*01",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451068,
+                "apiIdentifier": "DE*TNK*E200003*02",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451069,
+                "apiIdentifier": "DE*TNK*E200004*01",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451070,
+                "apiIdentifier": "DE*TNK*E200004*02",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451071,
+                "apiIdentifier": "DE*TNK*E200005*01",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451072,
+                "apiIdentifier": "DE*TNK*E200005*02",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451073,
+                "apiIdentifier": "DE*TNK*E200006*01",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451074,
+                "apiIdentifier": "DE*TNK*E200006*02",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451075,
+                "apiIdentifier": "DE*TNK*E200007*01",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451076,
+                "apiIdentifier": "DE*TNK*E200007*02",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451077,
+                "apiIdentifier": "DE*TNK*E200008*01",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451078,
+                "apiIdentifier": "DE*TNK*E200008*02",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451079,
+                "apiIdentifier": "DE*TNK*E200009*01",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451080,
+                "apiIdentifier": "DE*TNK*E200009*02",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451081,
+                "apiIdentifier": "DE*TNK*E200010*01",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451082,
+                "apiIdentifier": "DE*TNK*E200010*02",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451083,
+                "apiIdentifier": "DE*TNK*E200011*01",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 451084,
+                "apiIdentifier": "DE*TNK*E200011*02",
+                "speed": 22,
+                "powerType": "AC3"
+            }
+        ],
+        "utilization": 0,
+        "id": 191129,
+        "provider": {},
+        "deletedAt": null,
+        "latitude": 50.983466,
+        "longitude": 7.07184
+    },
+    {
+        "connectors": [
+            {
+                "id": 602716,
+                "apiIdentifier": "DE*ONE*E9UF4",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 602720,
+                "apiIdentifier": "DE*ONE*EL4EU",
+                "speed": 22,
+                "powerType": "AC3"
+            }
+        ],
+        "utilization": 0,
+        "id": 236998,
+        "provider": {},
+        "deletedAt": null,
+        "latitude": 50.998687,
+        "longitude": 7.046119
+    },
+    {
+        "connectors": [
+            {
+                "id": 608587,
+                "apiIdentifier": "DE*TNK*E200051*01",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 608588,
+                "apiIdentifier": "DE*TNK*E200051*02",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 608589,
+                "apiIdentifier": "DE*TNK*E200052*01",
+                "speed": 22,
+                "powerType": "AC3"
+            },
+            {
+                "id": 608590,
+                "apiIdentifier": "DE*TNK*E200052*02",
+                "speed": 22,
+                "powerType": "AC3"
+            }
+        ],
+        "utilization": 0,
+        "id": 239280,
+        "provider": {},
+        "deletedAt": null,
+        "latitude": 50.942808,
+        "longitude": 6.982819
+    }
+]

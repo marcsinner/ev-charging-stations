@@ -1,6 +1,12 @@
 import pymongo
 from credentials import uri
 
+def initDB(COLLECTION_NAME):
+    DB_NAME = "test-db"
+    client = pymongo.MongoClient(uri)
+    db = client[DB_NAME]
+    collection = db[COLLECTION_NAME]
+    return collection
 
 def main():
     client = pymongo.MongoClient(uri)

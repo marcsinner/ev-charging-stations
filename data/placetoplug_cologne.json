@@ -1,0 +1,4676 @@
+{
+    "data": {
+      "findChargingZones": {
+        "totalCount": 42,
+        "chargingZones": [
+          {
+            "id": "5d853b23b6ad260012ddea73",
+            "name": " , Boltensternstrasse 353",
+            "description": null,
+            "status": "AVAILABLE",
+            "coordinates": [
+              6.968861,
+              50.980491
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5d853b23b6ad260012ddea74",
+                "name": "ESSO, Köln, Boltensternstrasse 353, 2",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "5d853b23b6ad260012ddea75",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5d853b23b6ad260012ddea77",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 100,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      },
+                      {
+                        "id": "5d853b23b6ad260012ddea76",
+                        "status": "AVAILABLE",
+                        "name": "Plug 2",
+                        "current": 100,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5d868d52b6ad260012de3ca3",
+            "name": " , Boltensternstrasse 353",
+            "description": "Ladesäule befindet sich auf dem Parkplatz der Esso auf der Boltensternstr. 353.",
+            "status": "AVAILABLE",
+            "coordinates": [
+              6.968521,
+              50.980771
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5d868d52b6ad260012de3ca4",
+                "name": "ESSO, Köln, Boltensternstrasse 353, AC",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "5d868d52b6ad260012de3ca5",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5d868d52b6ad260012de3ca6",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 62,
+                        "power": 43,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5d853b22b6ad260012ddea6d",
+            "name": " , Boltensternstrasse 353",
+            "description": null,
+            "status": "AVAILABLE",
+            "coordinates": [
+              6.968861,
+              50.980491
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5d853b22b6ad260012ddea6e",
+                "name": "ESSO, Köln, Boltensternstrasse 353, 2",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "5d853b22b6ad260012ddea6f",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5d853b22b6ad260012ddea70",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 62,
+                        "power": 43,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5d868d50b6ad260012de3c9c",
+            "name": " , Boltensternstrasse 353",
+            "description": null,
+            "status": "CHARGING",
+            "coordinates": [
+              6.968521,
+              50.980771
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5d868d50b6ad260012de3c9d",
+                "name": "ESSO, Köln, Boltensternstrasse 353, AC",
+                "status": "CHARGING",
+                "services": [
+                  {
+                    "id": "5d868d50b6ad260012de3c9e",
+                    "name": "Service 1",
+                    "status": "CHARGING",
+                    "plugs": [
+                      {
+                        "id": "5d868d50b6ad260012de3ca0",
+                        "status": "CHARGING",
+                        "name": "Plug 1",
+                        "current": 100,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      },
+                      {
+                        "id": "5d868d50b6ad260012de3c9f",
+                        "status": "CHARGING",
+                        "name": "Plug 2",
+                        "current": 100,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "607f5d11d15e7500181a2292",
+            "name": " , Mülheimer Str. 67-69",
+            "description": "Provided by Bundesnetzagentur.de under the CC-BY 4.0 license\n",
+            "status": "CHARGING",
+            "coordinates": [
+              7.101405,
+              50.983919
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "607f5d11d15e7500181a2293",
+                "name": "Charging Station",
+                "status": "CHARGING",
+                "services": [
+                  {
+                    "id": "607f5d11d15e7500181a2294",
+                    "name": "Service 1",
+                    "status": "CHARGING",
+                    "plugs": [
+                      {
+                        "id": "607f5d11d15e7500181a2295",
+                        "status": "CHARGING",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 11.04,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "607f5d12d15e7500181a2296",
+                "name": "Charging Station",
+                "status": "CHARGING",
+                "services": [
+                  {
+                    "id": "607f5d12d15e7500181a2297",
+                    "name": "Service 1",
+                    "status": "CHARGING",
+                    "plugs": [
+                      {
+                        "id": "607f5d12d15e7500181a2298",
+                        "status": "CHARGING",
+                        "name": "Plug 1",
+                        "current": 55,
+                        "power": 22,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5c86669a73b0cc0010dccee6",
+            "name": " , Stixchestraße 137 z",
+            "description": null,
+            "status": "AVAILABLE",
+            "coordinates": [
+              7.015235,
+              51.024628
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5c86669a73b0cc0010dccee7",
+                "name": "Charging Station",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5c86669a73b0cc0010dcceee",
+                    "name": "Service 3",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c86669a73b0cc0010dcceef",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 63,
+                        "power": 43,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5c86669a73b0cc0010dcceeb",
+                    "name": "Service 2",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c86669a73b0cc0010dcceec",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 125,
+                        "power": 50,
+                        "plugFormat": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5c86669a73b0cc0010dccee8",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c86669a73b0cc0010dccee9",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 125,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "61677a7c64a2f300139b9c8b",
+                "name": "Charging Station",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "61677a7c64a2f300139b9c8c",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "61677a7c64a2f300139b9c8d",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 400,
+                        "power": 150,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "61677a7c64a2f300139b9c8e",
+                    "name": "Service 2",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "61677a7c64a2f300139b9c8f",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 400,
+                        "power": 150,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "608b6a30d15e7500181c7996",
+            "name": "22a, Deutz-Mülheimer-Str.",
+            "description": null,
+            "status": "AVAILABLE",
+            "coordinates": [
+              6.982819,
+              50.942808
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "608b6a30d15e7500181c7997",
+                "name": "TankE GmbH - Design Post GmbH &amp; Co. KG",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "608b6a30d15e7500181c7998",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "608b6a30d15e7500181c7999",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "608b6a30d15e7500181c799a",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "608b6a30d15e7500181c799b",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "608b6ab4d15e7500181c79be",
+                "name": "TankE GmbH - Design Post GmbH &amp; Co. KG",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "608b6ab4d15e7500181c79bf",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "608b6ab4d15e7500181c79c0",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "608b6ab4d15e7500181c79c1",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "608b6ab4d15e7500181c79c2",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6077728ed15e7500181687b3",
+            "name": "341, Dünnwalder Mauspfad",
+            "description": null,
+            "status": "AVAILABLE",
+            "coordinates": [
+              7.046119,
+              50.998687
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "6077728ed15e7500181687b4",
+                "name": "Charging Station",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "6077728ed15e7500181687b5",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "6077728ed15e7500181687b6",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": null,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "6077728fd15e7500181687b7",
+                "name": "Charging Station",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "6077728fd15e7500181687b8",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "6077728fd15e7500181687b9",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": null,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5c86492973b0cc0010da5e6f",
+            "name": "353, Boltensternstrasse",
+            "description": null,
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.968861,
+              50.980491
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5c86492973b0cc0010da5e70",
+                "name": "ESSO, Köln, Boltensternstrasse 353, 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5c86492973b0cc0010da5e77",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c86492973b0cc0010da5e78",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": null,
+                        "power": 50,
+                        "plugFormat": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5c86492973b0cc0010da5e74",
+                    "name": "Service 3",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c86492973b0cc0010da5e75",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 63,
+                        "power": 46.9,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5c86492973b0cc0010da5e71",
+                    "name": "Service 2",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c86492973b0cc0010da5e72",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": null,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5c86492a73b0cc0010da5e84",
+                "name": "ESSO, Köln, Boltensternstrasse 353, 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5c86492a73b0cc0010da5e8b",
+                    "name": "Service 3",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c86492a73b0cc0010da5e8c",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": null,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5c86492a73b0cc0010da5e88",
+                    "name": "Service 2",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c86492a73b0cc0010da5e89",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": null,
+                        "power": 50,
+                        "plugFormat": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5c86492a73b0cc0010da5e85",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c86492a73b0cc0010da5e86",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 63,
+                        "power": 46.9,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5f503e8b954186001ad670e0",
+            "name": "49 - 51, Waltherstraße",
+            "description": null,
+            "status": "AVAILABLE",
+            "coordinates": [
+              7.071841,
+              50.983466
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5f503e8b954186001ad670e1",
+                "name": "TankE GmbH - Leskan Park",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "5f503e8b954186001ad670e2",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8b954186001ad670e3",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5f503e8b954186001ad670e4",
+                    "name": "Service 1",
+                    "status": "OUTOFORDER",
+                    "plugs": [
+                      {
+                        "id": "5f503e8b954186001ad670e5",
+                        "status": "OUTOFORDER",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f503e8c954186001ad670e6",
+                "name": "TankE GmbH - Leskan Park",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "5f503e8c954186001ad670e7",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8c954186001ad670e8",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5f503e8c954186001ad670e9",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8c954186001ad670ea",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f503e8d954186001ad670eb",
+                "name": "TankE GmbH - Leskan Park",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "5f503e8d954186001ad670ec",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8d954186001ad670ed",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5f503e8d954186001ad670ee",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8d954186001ad670ef",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f503e8d954186001ad670f0",
+                "name": "TankE GmbH - Leskan Park",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "5f503e8d954186001ad670f1",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8d954186001ad670f2",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5f503e8d954186001ad670f3",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8d954186001ad670f4",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f503e8d954186001ad670f5",
+                "name": "TankE GmbH - Leskan Park",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "5f503e8d954186001ad670f6",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8d954186001ad670f7",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5f503e8d954186001ad670f8",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8d954186001ad670f9",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f503e8d954186001ad670fa",
+                "name": "TankE GmbH - Leskan Park",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "5f503e8d954186001ad670fb",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8d954186001ad670fc",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5f503e8d954186001ad670fd",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8d954186001ad670fe",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f503e8e954186001ad670ff",
+                "name": "TankE GmbH - Leskan Park",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "5f503e8e954186001ad67100",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8e954186001ad67101",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5f503e8e954186001ad67102",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8e954186001ad67103",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f503e8e954186001ad67104",
+                "name": "TankE GmbH - Leskan Park",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "5f503e8e954186001ad67105",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8e954186001ad67106",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5f503e8e954186001ad67107",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503e8e954186001ad67108",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f503ea3954186001ad67239",
+                "name": "TankE GmbH - Leskan Park",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "5f503ea3954186001ad6723a",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503ea3954186001ad6723b",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5f503ea3954186001ad6723c",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503ea3954186001ad6723d",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f503ea4954186001ad6724b",
+                "name": "TankE GmbH - Leskan Park",
+                "status": "AVAILABLE",
+                "services": [
+                  {
+                    "id": "5f503ea4954186001ad6724c",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503ea4954186001ad6724d",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5f503ea4954186001ad6724e",
+                    "name": "Service 1",
+                    "status": "AVAILABLE",
+                    "plugs": [
+                      {
+                        "id": "5f503ea4954186001ad6724f",
+                        "status": "AVAILABLE",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc359226ac4570010a7f359",
+            "name": "AXA AG",
+            "description": "An der Zufahrt zum AXA-Besucherparkplatz. TankE Karte notwendig. Immer nutzbar und kostenlos.\nPublic - Membership Required\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              7.0496499425691,
+              50.9632444208331
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc359226ac4570010a7f35e",
+                "name": "AXA AG",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359226ac4570010a7f35f",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359226ac4570010a7f360",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc359226ac4570010a7f35a",
+                "name": "AXA AG",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359226ac4570010a7f35b",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359226ac4570010a7f35c",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 3,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "60ec8d3fdb454c00138477c8",
+            "name": "Am Molenkopf 3",
+            "description": "Provided by Bundesnetzagentur.de under the CC-BY 4.0 license\n\n Data provided by OpenChargeMap (https://openchargemap.org)",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.988296,
+              50.974132
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "60ec8d3fdb454c00138477c9",
+                "name": "Am Molenkopf 3 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d3fdb454c00138477ca",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d3fdb454c00138477cb",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d3fdb454c00138477cc",
+                "name": "Am Molenkopf 3 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d3fdb454c00138477cd",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d3fdb454c00138477ce",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc358ff6ac4570010a7d72f",
+            "name": "Autohaus  Daniel Walterscheidt",
+            "description": "\r\n\nNissan Autohändler mit \"Freistrom für alle\"-Aktion von Nissan. Während der Öffnungszeiten Mo.-Fr 9 bis 18:30 Uhr kostenlos nutzbar.\nPrivately Owned - Notice Required\n0\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              7.09780414020859,
+              51.0019680320706
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc358ff6ac4570010a7d730",
+                "name": "Autohaus  Daniel Walterscheidt",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc358ff6ac4570010a7d734",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc358ff6ac4570010a7d735",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5bc358ff6ac4570010a7d731",
+                    "name": "Service 2",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc358ff6ac4570010a7d732",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 3.7,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc3549d6ac4570010a4b501",
+            "name": "Autowerkstatt A.T.U.",
+            "description": "24/7 nutzbarer Triplecharger. Die Ladesäule ist auf dem Parkplatz vor ATU von der Stixchesstraße, nahe  der Autobahn A3 Abfahrt Leverkusen-Zentrum\nPublic - Membership Required\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              7.0159238,
+              51.0245556
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc3549d6ac4570010a4b50a",
+                "name": "Autowerkstatt A.T.U.",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc3549d6ac4570010a4b50b",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc3549d6ac4570010a4b50c",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc3549d6ac4570010a4b506",
+                "name": "Autowerkstatt A.T.U.",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc3549d6ac4570010a4b507",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc3549d6ac4570010a4b508",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc3549d6ac4570010a4b502",
+                "name": "Autowerkstatt A.T.U.",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc3549d6ac4570010a4b503",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc3549d6ac4570010a4b504",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 63,
+                        "power": 43,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5d49faf49294c80014821e40",
+            "name": "Boltensternstrasse 353",
+            "description": null,
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.968861,
+              50.980491
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5d49faf49294c80014821e41",
+                "name": "ESSO, Köln, Boltensternstrasse 353, 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5d49faf49294c80014821e42",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5d49faf49294c80014821e43",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 63,
+                        "power": 52.4,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5d49faf29294c80014821e3a",
+            "name": "Boltensternstrasse 353",
+            "description": null,
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.968861,
+              50.980491
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5d49faf29294c80014821e3b",
+                "name": "ESSO, Köln, Boltensternstrasse 353, 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5d49faf29294c80014821e3c",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5d49faf29294c80014821e3d",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 63,
+                        "power": 52.4,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc356046ac4570010a5c655",
+            "name": "Charles-de-Gaulle-Platz",
+            "description": "Zwischen RTL-Gebäude und Bahngleisen. Die beiden linken Säulen sind bis auf einen Stellplatz nur für Cambio Carsharing.\nPublic - Membership Required\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.972138660449674,
+              50.94155979726788
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc356046ac4570010a5c672",
+                "name": "Charles-de-Gaulle-Platz",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc356046ac4570010a5c673",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc356046ac4570010a5c674",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc356046ac4570010a5c66e",
+                "name": "Charles-de-Gaulle-Platz",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc356046ac4570010a5c66f",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc356046ac4570010a5c670",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc356046ac4570010a5c66a",
+                "name": "Charles-de-Gaulle-Platz",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc356046ac4570010a5c66b",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc356046ac4570010a5c66c",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc356046ac4570010a5c666",
+                "name": "Charles-de-Gaulle-Platz",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc356046ac4570010a5c667",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc356046ac4570010a5c668",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc356046ac4570010a5c662",
+                "name": "Charles-de-Gaulle-Platz",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc356046ac4570010a5c663",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc356046ac4570010a5c664",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc356046ac4570010a5c65e",
+                "name": "Charles-de-Gaulle-Platz",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc356046ac4570010a5c65f",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc356046ac4570010a5c660",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc356046ac4570010a5c65a",
+                "name": "Charles-de-Gaulle-Platz",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc356046ac4570010a5c65b",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc356046ac4570010a5c65c",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc356046ac4570010a5c656",
+                "name": "Charles-de-Gaulle-Platz",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc356046ac4570010a5c657",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc356046ac4570010a5c658",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5c8672f873b0cc0010ddae27",
+            "name": "Clevischer Ring 129",
+            "description": "Keine Beschreibung vorhanden.",
+            "status": "UNKNOWN",
+            "coordinates": [
+              7.003912,
+              50.976487
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5c8672f873b0cc0010ddae28",
+                "name": "BMW - Procar Automobile GmbH",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5c8672f873b0cc0010ddae2c",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c8672f873b0cc0010ddae2d",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 26.6,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5c8672f873b0cc0010ddae29",
+                    "name": "Service 2",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c8672f873b0cc0010ddae2a",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 26.6,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc354d76ac4570010a4dfb4",
+            "name": "Currenta",
+            "description": "24/7 nutzbar mit Ladekarte EinfachStromLaden oder NewMotion. Betreiber ist Digital Energy Solutions.\nPublic - Membership Required\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.991577040575407,
+              51.013805439127566
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc354d76ac4570010a4dfc1",
+                "name": "Currenta",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc354d76ac4570010a4dfc2",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc354d76ac4570010a4dfc3",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc354d76ac4570010a4dfbd",
+                "name": "Currenta",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc354d76ac4570010a4dfbe",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc354d76ac4570010a4dfbf",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc354d76ac4570010a4dfb9",
+                "name": "Currenta",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc354d76ac4570010a4dfba",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc354d76ac4570010a4dfbb",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc354d76ac4570010a4dfb5",
+                "name": "Currenta",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc354d76ac4570010a4dfb6",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc354d76ac4570010a4dfb7",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "60ec8a7ddb454c001384323c",
+            "name": "Friedrich-Ebert-Straße 39",
+            "description": "Provided by Bundesnetzagentur.de under the CC-BY 4.0 license\n\n Data provided by OpenChargeMap (https://openchargemap.org)",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.988297,
+              51.030486
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "60ec8a7ddb454c001384323d",
+                "name": "Mühlenstraße 135 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8a7ddb454c001384323e",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8a7ddb454c001384323f",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8a7ddb454c0013843240",
+                "name": "Mühlenstraße 135 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8a7ddb454c0013843241",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8a7ddb454c0013843242",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8cc1db454c0013846b3e",
+                "name": "Friedrich-Ebert-Straße 39 3",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8cc1db454c0013846b3f",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8cc1db454c0013846b40",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8cc1db454c0013846b41",
+                "name": "Friedrich-Ebert-Straße 39 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8cc1db454c0013846b42",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8cc1db454c0013846b43",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60f5c563db454c001388cbbb",
+                "name": "Friedrich-Ebert-Straße 39 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c563db454c001388cbbc",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c563db454c001388cbbd",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60f5c563db454c001388cbbe",
+                "name": "Friedrich-Ebert-Straße 39 4",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c563db454c001388cbbf",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c563db454c001388cbc0",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "60ec8d39db454c00138476c2",
+            "name": "Henry-Ford-Str. 1",
+            "description": "Provided by Bundesnetzagentur.de under the CC-BY 4.0 license\n\n Data provided by OpenChargeMap (https://openchargemap.org)",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.959207,
+              51.004824
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "60ec8d39db454c00138476c3",
+                "name": "Henry-Ford-Str. 1 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d39db454c00138476c4",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d39db454c00138476c5",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d39db454c00138476c6",
+                "name": "Henry-Ford-Str. 1 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d39db454c00138476c7",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d39db454c00138476c8",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d39db454c00138476c9",
+                "name": "Henry-Ford-Str. 1 3",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d39db454c00138476ca",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d39db454c00138476cb",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d39db454c00138476cc",
+                "name": "Henry-Ford-Str. 1 4",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d39db454c00138476cd",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d39db454c00138476ce",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d39db454c00138476cf",
+                "name": "Henry-Ford-Str. 1 5",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d39db454c00138476d0",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d39db454c00138476d1",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d39db454c00138476d2",
+                "name": "Henry-Ford-Str. 1 6",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d39db454c00138476d3",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d39db454c00138476d4",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d39db454c00138476d5",
+                "name": "Henry-Ford-Str. 1 7",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d39db454c00138476d6",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d39db454c00138476d7",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d39db454c00138476d8",
+                "name": "Henry-Ford-Str. 1 8",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d39db454c00138476d9",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d39db454c00138476da",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc358896ac4570010a780c7",
+            "name": "Hotel Courtyard by Marriott",
+            "description": "2 kostenpflichtige Parkplätze unter der Hotelüberdachung vor dem Haupteingang, nur für Hotelgäste. Zusätzlich noch Registrierung bei TankE / Rheinenergie nötig.\nPrivate - For Staff, Visitors or Customers\n0\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.95876078271225,
+              50.9486802412561
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc358896ac4570010a780ce",
+                "name": "Hotel Courtyard by Marriott",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc358896ac4570010a780cf",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc358896ac4570010a780d2",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      },
+                      {
+                        "id": "5bc358896ac4570010a780d0",
+                        "status": "UNKNOWN",
+                        "name": "Plug 2",
+                        "current": 16,
+                        "power": 3.7,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc358896ac4570010a780c8",
+                "name": "Hotel Courtyard by Marriott",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc358896ac4570010a780c9",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc358896ac4570010a780cc",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      },
+                      {
+                        "id": "5bc358896ac4570010a780ca",
+                        "status": "UNKNOWN",
+                        "name": "Plug 2",
+                        "current": 16,
+                        "power": 3.7,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5ca4b174ad356b0011f1cd13",
+            "name": "Hotel Uhu Koeln",
+            "description": "1 Tesla Connector, up to 11kW.Available for customers. Please see front desk.\nPublic - Membership Required\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n\n Data provided by OpenChargeMap (https://openchargemap.org)",
+            "status": "UNKNOWN",
+            "coordinates": [
+              7.068664,
+              50.980355
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5ca4b174ad356b0011f1cd14",
+                "name": "Hotel Uhu Koeln",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5ca4b174ad356b0011f1cd15",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5ca4b174ad356b0011f1cd16",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 11,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f41895714098400138b317a",
+                "name": "Hotel Uhu Koeln 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5f41895714098400138b317b",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5f41895714098400138b317c",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f41897214098400138b33cb",
+                "name": "Hotel Uhu Koeln 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5f41897214098400138b33cc",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5f41897214098400138b33cd",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f85c9390d3c7200134d0184",
+                "name": "Hotel Uhu Koeln 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5f85c9390d3c7200134d0185",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5f85c9390d3c7200134d0186",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5c8672d573b0cc0010ddac02",
+            "name": "Kaiser-Wilhelm-Allee 101-103",
+            "description": "Keine Beschreibung vorhanden.",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.991573,
+              51.013759
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5c8672d573b0cc0010ddac03",
+                "name": "Currenta GmbH & Co. OHG - AC - DE*DES*E*0134",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5c8672d573b0cc0010ddac07",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c8672d573b0cc0010ddac08",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 26.6,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5c8672d573b0cc0010ddac04",
+                    "name": "Service 2",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c8672d573b0cc0010ddac05",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 26.6,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5c8672d673b0cc0010ddac12",
+                "name": "Currenta GmbH & Co. OHG - AC - DE*DES*E*0135",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5c8672d673b0cc0010ddac16",
+                    "name": "Service 2",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c8672d673b0cc0010ddac17",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 26.6,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5c8672d673b0cc0010ddac13",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c8672d673b0cc0010ddac14",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 26.6,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "60ec8d38db454c001384768f",
+            "name": "Kaiser-Wilhelm-Allee 70",
+            "description": "Provided by Bundesnetzagentur.de under the CC-BY 4.0 license\n\n Data provided by OpenChargeMap (https://openchargemap.org)",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.987458,
+              51.016921
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "60ec8d38db454c0013847690",
+                "name": "Kaiser-Wilhelm-Allee 70 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d38db454c0013847691",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d38db454c0013847692",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d38db454c0013847693",
+                "name": "Kaiser-Wilhelm-Allee 70 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d38db454c0013847694",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d38db454c0013847695",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60f5c6a4db454c001388dd11",
+                "name": "Kaiser-Wilhelm-Allee 70 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c6a4db454c001388dd12",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c6a4db454c001388dd13",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60f5c6a4db454c001388dd14",
+                "name": "Kaiser-Wilhelm-Allee 70 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c6a4db454c001388dd15",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c6a4db454c001388dd16",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc359216ac4570010a7f2be",
+            "name": "Köln Messe Presseparkplatz",
+            "description": "Auf dem Presseparkplatz P20a. TankE Ladekarte nötig. Durchgehend geöffnet.\nPublic - Membership Required\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.98606399281105,
+              50.9480417892608
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc359216ac4570010a7f2c3",
+                "name": "Köln Messe Presseparkplatz",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f2c4",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f2c5",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc359216ac4570010a7f2bf",
+                "name": "Köln Messe Presseparkplatz",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f2c0",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f2c1",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5c864d1b73b0cc0010dac1c0",
+            "name": "Leverkusener Straße 10",
+            "description": null,
+            "status": "UNKNOWN",
+            "coordinates": [
+              7.079094,
+              51.017291
+            ],
+            "vehicleTypes": [],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5c864d1b73b0cc0010dac1c1",
+                "name": "Charging Station ALDI SÜD",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5c864d1b73b0cc0010dac1c8",
+                    "name": "Service 2",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c864d1b73b0cc0010dac1c9",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 20,
+                        "plugFormat": null
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5c864d1b73b0cc0010dac1c5",
+                    "name": "Service 3",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c864d1b73b0cc0010dac1c6",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 20,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5c864d1b73b0cc0010dac1c2",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5c864d1b73b0cc0010dac1c3",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "60f5c44bdb454c001388bd35",
+            "name": "Leverkusenerstraße 10",
+            "description": "Data provided by OpenChargeMap (https://openchargemap.org)",
+            "status": "UNKNOWN",
+            "coordinates": [
+              7.079838,
+              51.017575
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "60f5c44bdb454c001388bd36",
+                "name": "Leverkusenerstraße 10 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c44bdb454c001388bd37",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c44bdb454c001388bd38",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 20,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60f5c44bdb454c001388bd39",
+                "name": "Leverkusenerstraße 10 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c44bdb454c001388bd3a",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c44bdb454c001388bd3b",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 20,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60f5c44bdb454c001388bd3c",
+                "name": "Leverkusenerstraße 10 3",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c44bdb454c001388bd3d",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c44bdb454c001388bd3e",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 20,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc359216ac4570010a7f2ff",
+            "name": "Marriott Hotel",
+            "description": "Öffentliche durchgehend geöffnete Tiefgarage, Zufahrt über Servasgasse. Parkgebühren 2,50€/h. TankE Karte der RheinEnergie nötig.\nPublic - Membership Required\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n\n Data provided by OpenChargeMap (https://openchargemap.org)",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.96148736458972,
+              50.9445917845701
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc359216ac4570010a7f30c",
+                "name": "Marriott Hotel 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f30d",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f30e",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc359216ac4570010a7f308",
+                "name": "Marriott Hotel 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f309",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f30a",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc359216ac4570010a7f304",
+                "name": "Marriott Hotel 3",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f305",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f306",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 3,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc359216ac4570010a7f300",
+                "name": "Marriott Hotel 4",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f301",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f302",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 3,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "60f5c694db454c001388dbb5",
+            "name": "Milzstraße 14",
+            "description": "Data provided by OpenChargeMap (https://openchargemap.org)",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.974744,
+              51.002995
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "60f5c694db454c001388dbb6",
+                "name": "Milzstraße 14 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c694db454c001388dbb7",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c694db454c001388dbb8",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60f5c694db454c001388dbb9",
+                "name": "Milzstraße 14 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c694db454c001388dbba",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c694db454c001388dbbb",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc354e46ac4570010a4e8a4",
+            "name": "Ostmerheimer Str. 198",
+            "description": "Provided by Bundesnetzagentur.de under the CC-BY 4.0 license\n\n Data provided by OpenChargeMap (https://openchargemap.org)",
+            "status": "UNKNOWN",
+            "coordinates": [
+              7.051004,
+              50.941765
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc354e46ac4570010a4e8ad",
+                "name": "Supermarkt Kaufland",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc354e46ac4570010a4e8ae",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc354e46ac4570010a4e8af",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc354e46ac4570010a4e8a9",
+                "name": "Supermarkt Kaufland",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc354e46ac4570010a4e8aa",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc354e46ac4570010a4e8ab",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc354e46ac4570010a4e8a5",
+                "name": "Supermarkt Kaufland",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc354e46ac4570010a4e8a6",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc354e46ac4570010a4e8a7",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 63,
+                        "power": 43,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60f5c49edb454c001388c174",
+                "name": "Ostmerheimer Str. 198 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c49edb454c001388c175",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c49edb454c001388c176",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60f5c49edb454c001388c177",
+                "name": "Ostmerheimer Str. 198 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c49edb454c001388c178",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c49edb454c001388c179",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60f5c49edb454c001388c17a",
+                "name": "Ostmerheimer Str. 198 3",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c49edb454c001388c17b",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c49edb454c001388c17c",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 43,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc359ab6ac4570010a85ac5",
+            "name": "Parkhaus City Center",
+            "description": "Einfahrt in der Friedrich Ebert Straße, kurz nach der Einfahrt auf der linken Seite. Es muss eine Lade-Karte im EVL-ePoint beantragt werden. Laden ist kostenfrei, jedoch fallen Parkgebühren an. 1€ pro Stunde für die ersten drei Stunden, danach 1,50€ pro Stunde.\nPublic - Membership Required\nFree\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.9883617580085255,
+              51.030367676200996
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc359ab6ac4570010a85acc",
+                "name": "Parkhaus City Center",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359ab6ac4570010a85acd",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359ab6ac4570010a85ad0",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      },
+                      {
+                        "id": "5bc359ab6ac4570010a85ace",
+                        "status": "UNKNOWN",
+                        "name": "Plug 2",
+                        "current": 16,
+                        "power": 3.7,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc359ab6ac4570010a85ac6",
+                "name": "Parkhaus City Center",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359ab6ac4570010a85ac7",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359ab6ac4570010a85aca",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      },
+                      {
+                        "id": "5bc359ab6ac4570010a85ac8",
+                        "status": "UNKNOWN",
+                        "name": "Plug 2",
+                        "current": 16,
+                        "power": 3.7,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc358896ac4570010a780e0",
+            "name": "Parkplatz Regionalverkehr Köln (RVK)",
+            "description": "2 kostenlose Parkplätze (Zufahrt über Sedanstraße) während der Öffnungszeiten nutzbar von Mo-Do 7-17, Fr 7-15Uhr. Registrierung bei TankE / Rheinenergie nötig.\nPublic - Membership Required\n0\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.96435225162465,
+              50.9511937591681
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc358896ac4570010a780e7",
+                "name": "Parkplatz Regionalverkehr Köln (RVK)",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc358896ac4570010a780e8",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc358896ac4570010a780eb",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      },
+                      {
+                        "id": "5bc358896ac4570010a780e9",
+                        "status": "UNKNOWN",
+                        "name": "Plug 2",
+                        "current": 16,
+                        "power": 3.7,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc358896ac4570010a780e1",
+                "name": "Parkplatz Regionalverkehr Köln (RVK)",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc358896ac4570010a780e2",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc358896ac4570010a780e5",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      },
+                      {
+                        "id": "5bc358896ac4570010a780e3",
+                        "status": "UNKNOWN",
+                        "name": "Plug 2",
+                        "current": 16,
+                        "power": 3.7,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "60ec8d45db454c001384791c",
+            "name": "Pfälzischer Ring",
+            "description": "Provided by Bundesnetzagentur.de under the CC-BY 4.0 license\n\n Data provided by OpenChargeMap (https://openchargemap.org)",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.989198,
+              50.945882
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "60ec8d45db454c001384791d",
+                "name": "Pfälzischer Ring 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d45db454c001384791e",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d45db454c001384791f",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d45db454c0013847920",
+                "name": "Pfälzischer Ring 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d45db454c0013847921",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d45db454c0013847922",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d45db454c0013847923",
+                "name": "Pfälzischer Ring 3",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d45db454c0013847924",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d45db454c0013847925",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d45db454c0013847926",
+                "name": "Pfälzischer Ring 4",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d45db454c0013847927",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d45db454c0013847928",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d45db454c0013847929",
+                "name": "Pfälzischer Ring 5",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d45db454c001384792a",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d45db454c001384792b",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d45db454c001384792c",
+                "name": "Pfälzischer Ring 6",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d45db454c001384792d",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d45db454c001384792e",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d45db454c001384792f",
+                "name": "Pfälzischer Ring 7",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d45db454c0013847930",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d45db454c0013847931",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d45db454c0013847932",
+                "name": "Pfälzischer Ring 8",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d45db454c0013847933",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d45db454c0013847934",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d45db454c0013847935",
+                "name": "Pfälzischer Ring 9",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d45db454c0013847936",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d45db454c0013847937",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d45db454c0013847938",
+                "name": "Pfälzischer Ring 10",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d45db454c0013847939",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d45db454c001384793a",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc359216ac4570010a7f2d3",
+            "name": "RTL Köln ",
+            "description": "Zufahrt über Auenweg 13. An der Schranke vor dem Firmenparkplatz mit Hinweis auf TankE Ladesäule anmelden. Durchgehend geöffnet.\nPublic - Membership Required\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.97315239756437,
+              50.9435110512729
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc359216ac4570010a7f2f0",
+                "name": "RTL Köln ",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f2f1",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f2f2",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc359216ac4570010a7f2ec",
+                "name": "RTL Köln ",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f2ed",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f2ee",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc359216ac4570010a7f2e8",
+                "name": "RTL Köln ",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f2e9",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f2ea",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc359216ac4570010a7f2e4",
+                "name": "RTL Köln ",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f2e5",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f2e6",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc359216ac4570010a7f2e0",
+                "name": "RTL Köln ",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f2e1",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f2e2",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 3,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc359216ac4570010a7f2dc",
+                "name": "RTL Köln ",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f2dd",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f2de",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 3,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc359216ac4570010a7f2d8",
+                "name": "RTL Köln ",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f2d9",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f2da",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 3,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc359216ac4570010a7f2d4",
+                "name": "RTL Köln ",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc359216ac4570010a7f2d5",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc359216ac4570010a7f2d6",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 3,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "60ec8d43db454c0013847890",
+            "name": "Riehler Platz 1",
+            "description": "Provided by Bundesnetzagentur.de under the CC-BY 4.0 license\n\n Data provided by OpenChargeMap (https://openchargemap.org)",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.966254,
+              50.954988
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "60ec8d43db454c0013847891",
+                "name": "Riehler Platz 1 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d43db454c0013847892",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d43db454c0013847893",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d43db454c0013847894",
+                "name": "Riehler Platz 1 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d43db454c0013847895",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d43db454c0013847896",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60f5c650db454c001388d76a",
+                "name": "Riehler Platz 1 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c650db454c001388d76b",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c650db454c001388d76c",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60f5c650db454c001388d76d",
+                "name": "Riehler Platz 1 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60f5c650db454c001388d76e",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60f5c650db454c001388d76f",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "60ec8d44db454c00138478be",
+            "name": "Sedanstraße 6",
+            "description": "Provided by Bundesnetzagentur.de under the CC-BY 4.0 license\n\n Data provided by OpenChargeMap (https://openchargemap.org)",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.961789,
+              50.951987
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "60ec8d44db454c00138478bf",
+                "name": "Sedanstraße 6 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d44db454c00138478c0",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d44db454c00138478c1",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d44db454c00138478c2",
+                "name": "Sedanstraße 6 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d44db454c00138478c3",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d44db454c00138478c4",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d44db454c00138478c5",
+                "name": "Sedanstraße 6 3",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d44db454c00138478c6",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d44db454c00138478c7",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d44db454c00138478c8",
+                "name": "Sedanstraße 6 4",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d44db454c00138478c9",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d44db454c00138478ca",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d44db454c00138478cb",
+                "name": "Sedanstraße 6 5",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d44db454c00138478cc",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d44db454c00138478cd",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d44db454c00138478ce",
+                "name": "Sedanstraße 6 6",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d44db454c00138478cf",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d44db454c00138478d0",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d44db454c00138478d1",
+                "name": "Sedanstraße 6 7",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d44db454c00138478d2",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d44db454c00138478d3",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d44db454c00138478d4",
+                "name": "Sedanstraße 6 8",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d44db454c00138478d5",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d44db454c00138478d6",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d44db454c00138478d7",
+                "name": "Sedanstraße 6 9",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d44db454c00138478d8",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d44db454c00138478d9",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d44db454c00138478da",
+                "name": "Sedanstraße 6 10",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d44db454c00138478db",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d44db454c00138478dc",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d44db454c00138478dd",
+                "name": "Sedanstraße 6 11",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d44db454c00138478de",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d44db454c00138478df",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60ec8d44db454c00138478e0",
+                "name": "Sedanstraße 6 12",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "60ec8d44db454c00138478e1",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "60ec8d44db454c00138478e2",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc355176ac4570010a512b4",
+            "name": "Stadtentwässerungsbetriebe",
+            "description": "Zwei 24/7 nutzbare weiße Ladesäulen auf dem Parkplatz vor dem Verwaltungsgebäude.\nPublic - Membership Required\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              7.04982700000005,
+              50.9560387
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc355176ac4570010a512c1",
+                "name": "Stadtentwässerungsbetriebe",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc355176ac4570010a512c2",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc355176ac4570010a512c3",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc355176ac4570010a512bd",
+                "name": "Stadtentwässerungsbetriebe",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc355176ac4570010a512be",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc355176ac4570010a512bf",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc355176ac4570010a512b9",
+                "name": "Stadtentwässerungsbetriebe",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc355176ac4570010a512ba",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc355176ac4570010a512bb",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc355176ac4570010a512b5",
+                "name": "Stadtentwässerungsbetriebe",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc355176ac4570010a512b6",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc355176ac4570010a512b7",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc3556e6ac4570010a55240",
+            "name": "Stegerwaldsiedlung",
+            "description": "Auf dem Parkplatz zwischen den Blöcken Hausnr. 11 und 19. Nur die rechte Säule ist öffentlich nutzbar, aber häufig zugeparkt (Schilder fehlen)\nPublic - Membership Required\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.9921377000000575,
+              50.9501034
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc3556e6ac4570010a55245",
+                "name": "Stegerwaldsiedlung",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc3556e6ac4570010a55246",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc3556e6ac4570010a55247",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc3556e6ac4570010a55241",
+                "name": "Stegerwaldsiedlung",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc3556e6ac4570010a55242",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc3556e6ac4570010a55243",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc3587b6ac4570010a77879",
+            "name": "Supermarkt Aldi (mit E-Bike Ladestation)",
+            "description": "Es kann nur an jeweils einem der Anschlüsse geladen werden, max. 60 Minuten\nEin blau markierter Parkplatz. Kostenloses Laden für maximal eine Stunde während der Öffnungszeiten Mo-Sa 8-21Uhr.\r\nZusätzlich sind drei Schukosteckdosen (mit 16A abgesichert) am Fahrradständer vorhanden, die jedoch primär für E-Fahrräder gedacht sind.\nPublic\n0\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              7.07878589259029,
+              51.0170139869421
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc3587b6ac4570010a77887",
+                "name": "Supermarkt Aldi (mit E-Bike Ladestation)",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc3587b6ac4570010a77888",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc3587b6ac4570010a7788b",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 20,
+                        "plugFormat": "CABLE"
+                      },
+                      {
+                        "id": "5bc3587b6ac4570010a77889",
+                        "status": "UNKNOWN",
+                        "name": "Plug 2",
+                        "current": 0,
+                        "power": 20,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc3587b6ac4570010a77881",
+                "name": "Supermarkt Aldi (mit E-Bike Ladestation)",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc3587b6ac4570010a77882",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc3587b6ac4570010a77885",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 32,
+                        "power": 22,
+                        "plugFormat": "SOCKET"
+                      },
+                      {
+                        "id": "5bc3587b6ac4570010a77883",
+                        "status": "UNKNOWN",
+                        "name": "Plug 2",
+                        "current": 16,
+                        "power": 3.7,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc3587b6ac4570010a7787a",
+                "name": "Supermarkt Aldi (mit E-Bike Ladestation)",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc3587b6ac4570010a7787e",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc3587b6ac4570010a7787f",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 3.7,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5bc3587b6ac4570010a7787b",
+                    "name": "Service 2",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc3587b6ac4570010a7787c",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 3.7,
+                        "plugFormat": "SOCKET"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5bc354b56ac4570010a4c54f",
+            "name": "Tankstelle Esso",
+            "description": "Zwei durchgehend nutzbare Triplecharger auf dem Tankstellengelände\nPublic\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n",
+            "status": "UNKNOWN",
+            "coordinates": [
+              6.968516195037068,
+              50.98080284491646
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5bc354b66ac4570010a4c564",
+                "name": "Tankstelle Esso",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc354b66ac4570010a4c565",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc354b66ac4570010a4c566",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc354b66ac4570010a4c560",
+                "name": "Tankstelle Esso",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc354b66ac4570010a4c561",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc354b66ac4570010a4c562",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc354b66ac4570010a4c55c",
+                "name": "Tankstelle Esso",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc354b66ac4570010a4c55d",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc354b66ac4570010a4c55e",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc354b66ac4570010a4c558",
+                "name": "Tankstelle Esso",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc354b66ac4570010a4c559",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc354b66ac4570010a4c55a",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 50,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc354b66ac4570010a4c554",
+                "name": "Tankstelle Esso",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc354b66ac4570010a4c555",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc354b66ac4570010a4c556",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 63,
+                        "power": 43,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5bc354b56ac4570010a4c550",
+                "name": "Tankstelle Esso",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5bc354b56ac4570010a4c551",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5bc354b56ac4570010a4c552",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 63,
+                        "power": 43,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5ca4b174ad356b0011f1cd06",
+            "name": "Uhu Gaestehaus",
+            "description": "2 Tesla Connectors, up to 11kW.Available for customers. Please see front desk.\nPublic - Membership Required\nLicensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\n\n Data provided by OpenChargeMap (https://openchargemap.org)",
+            "status": "UNKNOWN",
+            "coordinates": [
+              7.068612,
+              50.980588
+            ],
+            "vehicleTypes": [
+              "CAR"
+            ],
+            "isPtP": false,
+            "isPublic": true,
+            "reviews": {
+              "reviews": [],
+              "totalCount": 0
+            },
+            "stations": [
+              {
+                "id": "5ca4b174ad356b0011f1cd0b",
+                "name": "Uhu Gaestehaus",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5ca4b174ad356b0011f1cd0c",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5ca4b174ad356b0011f1cd0d",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 11,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5ca4b174ad356b0011f1cd07",
+                "name": "Uhu Gaestehaus",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5ca4b174ad356b0011f1cd08",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5ca4b174ad356b0011f1cd09",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 16,
+                        "power": 11,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f41895d14098400138b3231",
+                "name": "Uhu Gaestehaus 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5f41895d14098400138b3232",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5f41895d14098400138b3233",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f41895d14098400138b3234",
+                "name": "Uhu Gaestehaus 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5f41895d14098400138b3235",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5f41895d14098400138b3236",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f41897f14098400138b3531",
+                "name": "Uhu Gaestehaus 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5f41897f14098400138b3532",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5f41897f14098400138b3533",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f41897f14098400138b3534",
+                "name": "Uhu Gaestehaus 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5f41897f14098400138b3535",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5f41897f14098400138b3536",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f85c92d0d3c7200134d0067",
+                "name": "Uhu Gaestehaus 1",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5f85c92d0d3c7200134d0068",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5f85c92d0d3c7200134d0069",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5f85c92d0d3c7200134d006a",
+                "name": "Uhu Gaestehaus 2",
+                "status": "UNKNOWN",
+                "services": [
+                  {
+                    "id": "5f85c92d0d3c7200134d006b",
+                    "name": "Service 1",
+                    "status": "UNKNOWN",
+                    "plugs": [
+                      {
+                        "id": "5f85c92d0d3c7200134d006c",
+                        "status": "UNKNOWN",
+                        "name": "Plug 1",
+                        "current": 0,
+                        "power": 11,
+                        "plugFormat": "CABLE"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "hasNextPage": false
+      }
+    }
+  }

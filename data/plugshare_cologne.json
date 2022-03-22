@@ -1,0 +1,3472 @@
+[
+    {
+        "access": 1,
+        "address": "Maarweg 241 50825 K\u00f6ln Deutschland",
+        "icon": "https://assets.plugshare.com/icons/Y.png",
+        "icon_type": "Y",
+        "id": 70473,
+        "latitude": 50.947433,
+        "longitude": 6.896469,
+        "name": "Autohaus Dirkes",
+        "stations": [
+            {
+                "id": 99884,
+                "outlets": [
+                    {
+                        "connector": 3,
+                        "id": 245499,
+                        "kilowatts": 50.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/70473"
+    },
+    {
+        "access": 1,
+        "address": "An der Shell-Station, Deutz-Kalker Str. 103, 50679 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/Y.png",
+        "icon_type": "Y",
+        "id": 301654,
+        "latitude": 50.937223,
+        "longitude": 6.991939,
+        "name": "Shell",
+        "score": 9.0,
+        "stations": [
+            {
+                "id": 686697,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 13,
+                        "id": 2107616,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 3,
+                        "id": 2107617,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 13,
+                        "id": 2107615,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/301654"
+    },
+    {
+        "access": 1,
+        "address": "Butzweilerstra\u00dfe 51, 50829 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/Y.png",
+        "icon_type": "Y",
+        "id": 299309,
+        "latitude": 50.984547,
+        "longitude": 6.89834,
+        "name": "IKEA K\u00f6ln-Butzweilerhof",
+        "score": 7.4,
+        "stations": [
+            {
+                "id": 678752,
+                "outlets": [
+                    {
+                        "connector": 3,
+                        "id": 2093686,
+                        "kilowatts": 20.0,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 13,
+                        "id": 2093687,
+                        "kilowatts": 20.0,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 2093688,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 678753,
+                "outlets": [
+                    {
+                        "connector": 3,
+                        "id": 2093689,
+                        "kilowatts": 20.0,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 13,
+                        "id": 2093690,
+                        "kilowatts": 20.0,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 2093691,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/299309"
+    },
+    {
+        "access": 1,
+        "address": "Boltensternstrasse 353, K\u00f6ln, 50735, DE",
+        "icon": "https://assets.plugshare.com/icons/Y.png",
+        "icon_type": "Y",
+        "id": 200744,
+        "latitude": 50.980781,
+        "longitude": 6.968533,
+        "name": "Charging Station Charge-ON",
+        "score": 7.6,
+        "stations": [
+            {
+                "id": 426121,
+                "outlets": [
+                    {
+                        "connector": 3,
+                        "id": 744942,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 13,
+                        "id": 744943,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 744944,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 426122,
+                "outlets": [
+                    {
+                        "connector": 3,
+                        "id": 744945,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 13,
+                        "id": 744946,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 744947,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 650592,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2059833,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    },
+                    {
+                        "connector": 13,
+                        "id": 2059834,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    },
+                    {
+                        "connector": 3,
+                        "id": 2181414,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 650591,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2059832,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "CHARGING"
+                    },
+                    {
+                        "connector": 3,
+                        "id": 2180774,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "CHARGING"
+                    },
+                    {
+                        "connector": 13,
+                        "id": 2059831,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "CHARGING"
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/200744"
+    },
+    {
+        "access": 1,
+        "address": "D\u00fcrener Str. 285, 50935 K\u00f6ln, Deutschland",
+        "icon": "https://assets.plugshare.com/icons/Y.png",
+        "icon_type": "Y",
+        "id": 206133,
+        "latitude": 50.926686,
+        "longitude": 6.904676,
+        "name": "TankE-Netzwerk Rheinenergie",
+        "stations": [
+            {
+                "id": 439034,
+                "outlets": [
+                    {
+                        "connector": 3,
+                        "id": 810149,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 439035,
+                "outlets": [
+                    {
+                        "connector": 13,
+                        "id": 810150,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/206133"
+    },
+    {
+        "access": 1,
+        "address": "2 Bennoplatz, K\u00f6ln, Germany, 51103",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 110889,
+        "latitude": 50.93988,
+        "longitude": 7.017292,
+        "name": "Best Western Hotel K\u00f6ln",
+        "stations": [
+            {
+                "id": 187981,
+                "network_id": 35,
+                "outlets": [
+                    {
+                        "connector": 6,
+                        "id": 415608,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 187980,
+                "network_id": 35,
+                "outlets": [
+                    {
+                        "connector": 6,
+                        "id": 415607,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/110889"
+    },
+    {
+        "access": 1,
+        "address": "Neusser Str. 242, K\u00f6ln",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 112127,
+        "latitude": 50.963108,
+        "longitude": 6.955268,
+        "name": "TankE - Kaufhof K\u00f6ln-Nippes",
+        "stations": [
+            {
+                "id": 191158,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 420330,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 281788,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 551505,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/112127"
+    },
+    {
+        "access": 1,
+        "address": "K\u00f6hlstra\u00dfe 8-10, 50827 K\u00f6ln, Duitsland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 147282,
+        "latitude": 50.975269,
+        "longitude": 6.897554,
+        "name": "TankE 2x",
+        "stations": [
+            {
+                "id": 283937,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 554019,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 554020,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283938,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 554021,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 554022,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283939,
+                "outlets": [
+                    {
+                        "connector": 10,
+                        "id": 554023,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283940,
+                "outlets": [
+                    {
+                        "connector": 10,
+                        "id": 554024,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283941,
+                "outlets": [
+                    {
+                        "connector": 10,
+                        "id": 554025,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283942,
+                "outlets": [
+                    {
+                        "connector": 10,
+                        "id": 554026,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/147282"
+    },
+    {
+        "access": 1,
+        "address": "H\u00f6ninger Weg 12, K\u00f6ln, 50969, DE",
+        "icon": "https://assets.plugshare.com/icons/Y.png",
+        "icon_type": "Y",
+        "id": 157388,
+        "latitude": 50.920836,
+        "longitude": 6.940407,
+        "name": "Charging Station Charge-ON",
+        "score": 8.4,
+        "stations": [
+            {
+                "id": 308313,
+                "outlets": [
+                    {
+                        "connector": 3,
+                        "id": 584777,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 13,
+                        "id": 584778,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 584779,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 650681,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 3,
+                        "id": 2183582,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    },
+                    {
+                        "connector": 13,
+                        "id": 2060011,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    },
+                    {
+                        "connector": 7,
+                        "id": 2060012,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "CHARGING"
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/157388"
+    },
+    {
+        "access": 1,
+        "address": "3 Neuer Weyerstra\u00dferweg, K\u00f6ln 50969, Germany",
+        "icon": "https://assets.plugshare.com/icons/Y.png",
+        "icon_type": "Y",
+        "id": 66349,
+        "latitude": 50.906559,
+        "longitude": 6.934591,
+        "name": "ALDI S\u00fcd",
+        "score": 7.4,
+        "stations": [
+            {
+                "id": 232227,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 3,
+                        "id": 734521,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    },
+                    {
+                        "connector": 7,
+                        "id": 734522,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    },
+                    {
+                        "connector": 13,
+                        "id": 734523,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/66349"
+    },
+    {
+        "access": 1,
+        "address": "Mendener Stra\u00dfe 8, 51105 K\u00f6ln, Deutschland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 246197,
+        "latitude": 50.910204,
+        "longitude": 6.99267,
+        "name": "On-Charge.com 2x14kW",
+        "stations": [
+            {
+                "id": 534431,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1443895,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 534432,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1443896,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/246197"
+    },
+    {
+        "access": 1,
+        "address": "Messeallee Nord, 51063\u200e K\u00f6ln, Deutschland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 113001,
+        "latitude": 50.948092,
+        "longitude": 6.985536,
+        "name": "TankE K\u00f6ln Messe",
+        "stations": [
+            {
+                "id": 193260,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 423210,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 423211,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/113001"
+    },
+    {
+        "access": 1,
+        "address": "Bonner Wall 37, 50677 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 147280,
+        "latitude": 50.917434,
+        "longitude": 6.95223,
+        "name": "TankE - Taxi Ruf",
+        "stations": [
+            {
+                "id": 283933,
+                "outlets": [
+                    {
+                        "connector": 10,
+                        "id": 554013,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/147280"
+    },
+    {
+        "access": 1,
+        "address": "Neusser Str. 460-474, K\u00f6ln",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 112128,
+        "latitude": 50.973782,
+        "longitude": 6.951874,
+        "name": "Solar-TankE - Auto-Strunk K\u00f6ln",
+        "stations": [
+            {
+                "id": 191159,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 420331,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/112128"
+    },
+    {
+        "access": 1,
+        "address": "Parkg\u00fcrtel 24, K\u00f6ln",
+        "icon": "https://assets.plugshare.com/icons/Y.png",
+        "icon_type": "Y",
+        "id": 112126,
+        "latitude": 50.960631,
+        "longitude": 6.930479,
+        "name": "TankE - RheinEnergie Besucherparkplatz",
+        "score": 9.0,
+        "stations": [
+            {
+                "id": 193261,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 423212,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 423213,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 193262,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 423215,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 423216,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 193263,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 423217,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 423218,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283926,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 554003,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 554004,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283927,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 554005,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 554006,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283928,
+                "outlets": [
+                    {
+                        "connector": 13,
+                        "id": 554007,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 260946,
+                "outlets": [
+                    {
+                        "connector": 3,
+                        "id": 526364,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 191157,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 420329,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 423214,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/112126"
+    },
+    {
+        "access": 1,
+        "address": "Siegburger Str. 232, 51105 K\u00f6ln, Duitsland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 147281,
+        "latitude": 50.920892,
+        "longitude": 6.984243,
+        "name": "TankE - Auto Laukat",
+        "stations": [
+            {
+                "id": 283934,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 554015,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 554016,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283935,
+                "outlets": [
+                    {
+                        "connector": 10,
+                        "id": 554017,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283936,
+                "outlets": [
+                    {
+                        "connector": 10,
+                        "id": 554018,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/147281"
+    },
+    {
+        "access": 1,
+        "address": "Niehler Str. 360, 50735 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 355847,
+        "latitude": 50.977044,
+        "longitude": 6.960249,
+        "name": "B\u00e4ckerei Schmitz & Nittenwilm",
+        "stations": [
+            {
+                "id": 848362,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2371611,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 848363,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2371612,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/355847"
+    },
+    {
+        "access": 1,
+        "address": "51105, Konstantin-Wille-Stra\u00dfe, 51105 K\u00f6ln",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 36914,
+        "latitude": 50.92383,
+        "longitude": 6.991874,
+        "name": "TankE (2x 22kWh) RheinEnergie",
+        "stations": [
+            {
+                "id": 41440,
+                "network_id": 14,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 78553,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 41439,
+                "network_id": 14,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 78552,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/36914"
+    },
+    {
+        "access": 1,
+        "address": "Hugo-Eckener-Stra\u00dfe 27C, 50829 K\u00f6ln, Deutschland",
+        "icon": "https://assets.plugshare.com/icons/YR.png",
+        "icon_type": "YR",
+        "id": 347263,
+        "latitude": 50.977263,
+        "longitude": 6.895569,
+        "name": "Shell Tankstelle (Coming Soon)",
+        "stations": [
+            {
+                "id": 824739,
+                "outlets": [
+                    {
+                        "connector": 13,
+                        "id": 2331445,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 824738,
+                "outlets": [
+                    {
+                        "connector": 13,
+                        "id": 2331444,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/347263"
+    },
+    {
+        "access": 1,
+        "address": "K\u00f6lnturm, Im Mediapark 8, 50670 K\u00f6ln, Duitsland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 190569,
+        "latitude": 50.947474,
+        "longitude": 6.944765,
+        "name": "K\u00f6ln Turm Parking Garage (3x 6kW)",
+        "score": 6.9,
+        "stations": [
+            {
+                "id": 398708,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 700207,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 398709,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 700208,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 398710,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 700209,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/190569"
+    },
+    {
+        "access": 1,
+        "address": "Lotharstr. / Remigiusstr., 50937 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 355171,
+        "latitude": 50.91883,
+        "longitude": 6.927875,
+        "name": "Lotharstr. / Remigiusstr. Parken / Laden",
+        "stations": [
+            {
+                "id": 846266,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2368944,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 850023,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2373746,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/355171"
+    },
+    {
+        "access": 1,
+        "address": "Theodor-Heuss-Ring 19-21",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 112129,
+        "latitude": 50.951185,
+        "longitude": 6.964343,
+        "name": "TankE - RVK K\u00f6ln",
+        "stations": [
+            {
+                "id": 191160,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 420332,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/112129"
+    },
+    {
+        "access": 1,
+        "address": "Johannisstra\u00dfe 76-80, 50668 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 112130,
+        "latitude": 50.944686,
+        "longitude": 6.961513,
+        "name": "K\u00f6ln Marriott Hotel",
+        "stations": [
+            {
+                "id": 191161,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 420333,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 225505,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 474128,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/112130"
+    },
+    {
+        "access": 1,
+        "address": "Hospeltstra\u00dfe 53, 50825 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 304224,
+        "latitude": 50.953404,
+        "longitude": 6.904766,
+        "name": "Hospeltstra\u00dfe Parken / Laden",
+        "stations": [
+            {
+                "id": 706439,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2131952,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/304224"
+    },
+    {
+        "access": 1,
+        "address": "Constantinstra\u00dfe 92, 50679 K\u00f6ln, Deutschland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 348025,
+        "latitude": 50.939086,
+        "longitude": 6.977779,
+        "name": "Constantinstra\u00dfe Parken / Laden",
+        "stations": [
+            {
+                "id": 826680,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2334081,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 826681,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2334082,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/348025"
+    },
+    {
+        "access": 1,
+        "address": "Nikolausstra\u00dfe 50, 51149 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 350335,
+        "latitude": 50.900462,
+        "longitude": 7.019015,
+        "name": "Nikolausstra\u00dfe Parken / Laden",
+        "stations": [
+            {
+                "id": 833499,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2352078,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 833500,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2352079,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/350335"
+    },
+    {
+        "access": 1,
+        "address": "Maastrichter Str. 24, 50672 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 319912,
+        "latitude": 50.93841,
+        "longitude": 6.93658,
+        "name": "Maastrichter Str. Parken / Laden",
+        "score": 5.7,
+        "stations": [
+            {
+                "id": 747382,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2230468,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": "UNKNOWN"
+                    },
+                    {
+                        "connector": 7,
+                        "id": 2229897,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": "UNKNOWN"
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/319912"
+    },
+    {
+        "access": 1,
+        "address": "Rochusstra\u00dfe 277, 50827 K\u00f6ln, Deutschland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 346711,
+        "latitude": 50.967551,
+        "longitude": 6.905402,
+        "name": "Rochusstra\u00dfe Parken / Laden",
+        "stations": [
+            {
+                "id": 823320,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2329578,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 823321,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2329579,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/346711"
+    },
+    {
+        "access": 1,
+        "address": "Bolzengasse 59, 50667 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/GR.png",
+        "icon_type": "GR",
+        "id": 360644,
+        "latitude": 50.936654,
+        "longitude": 6.960724,
+        "name": "K\u00f6ln Hauptbahnhof (Coming Soon)",
+        "stations": [
+            {
+                "id": 861186,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2389481,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/360644"
+    },
+    {
+        "access": 1,
+        "address": "Schanzenstra\u00dfe, 51063 K\u00f6ln, Deutschland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 287153,
+        "latitude": 50.970774,
+        "longitude": 7.013039,
+        "name": "ID Cologne Parkhaus",
+        "stations": [
+            {
+                "id": 627411,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863149,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627412,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863150,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627413,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863151,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627414,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863152,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627415,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863153,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627416,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863154,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627417,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863155,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627418,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863156,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627419,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863157,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627420,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863158,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627421,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863159,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627422,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863160,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627423,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863161,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627424,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863162,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627425,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863163,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627426,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863164,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627427,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863165,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627428,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863166,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627429,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863167,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627430,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863168,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627431,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863169,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627432,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863170,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627433,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863171,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627434,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863172,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 627435,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1863173,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/287153"
+    },
+    {
+        "access": 1,
+        "address": "Raderthalg\u00fcrtel 1a, K\u00f6ln, 50968, DE",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 277197,
+        "latitude": 50.903562,
+        "longitude": 6.956056,
+        "name": "Charging Station Digital Energy Solutions",
+        "score": 6.9,
+        "stations": [
+            {
+                "id": 608758,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1709380,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 1709379,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/277197"
+    },
+    {
+        "access": 1,
+        "address": "Bonner Str. 242, 50968 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 159559,
+        "latitude": 50.908679,
+        "longitude": 6.96285,
+        "name": "Kuechen Loft",
+        "stations": [
+            {
+                "id": 315734,
+                "network_id": 35,
+                "outlets": [
+                    {
+                        "connector": 6,
+                        "id": 594025,
+                        "kilowatts": 14.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 315733,
+                "network_id": 35,
+                "outlets": [
+                    {
+                        "connector": 6,
+                        "id": 594024,
+                        "kilowatts": 14.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/159559"
+    },
+    {
+        "access": 1,
+        "address": "Raderbergg\u00fcrtel 31, 50968 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/GR.png",
+        "icon_type": "GR",
+        "id": 157389,
+        "latitude": 50.903893,
+        "longitude": 6.961278,
+        "name": "Volkswagen Zentrum K\u00f6ln (Coming Soon)",
+        "stations": [
+            {
+                "id": 308314,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 584781,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 584780,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/157389"
+    },
+    {
+        "access": 1,
+        "address": "Von-Huenefeld-Str. 12, K\u00f6ln, 50829, DE",
+        "icon": "https://assets.plugshare.com/icons/A.png",
+        "icon_type": "A",
+        "id": 280059,
+        "latitude": 50.982651,
+        "longitude": 6.885332,
+        "name": "Charging Station has to be",
+        "stations": [
+            {
+                "id": 659363,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2069841,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "CHARGING"
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/280059"
+    },
+    {
+        "access": 1,
+        "address": "Melli-Beese-Stra\u00dfe 5, K\u00f6ln, 50829, DE",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 278564,
+        "latitude": 50.987255,
+        "longitude": 6.88638,
+        "name": "Charging Station Chargecloud",
+        "stations": [
+            {
+                "id": 610563,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713017,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610560,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713014,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 610586,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713040,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "OUTOFORDER"
+                    }
+                ]
+            },
+            {
+                "id": 610562,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713016,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610576,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713030,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610566,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713020,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610564,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713018,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610567,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713021,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610589,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713043,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610592,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713046,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610595,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713049,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610561,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713015,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610558,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713012,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610588,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713042,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610556,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713010,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610573,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713027,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610565,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713019,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610581,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713035,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610574,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713028,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610571,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713025,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610582,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713036,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610579,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713033,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610585,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713039,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610572,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713026,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610559,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713013,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610570,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713024,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610593,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713047,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610578,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713032,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610590,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713044,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610568,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713022,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610577,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713031,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 610594,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713048,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610569,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713023,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610557,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713011,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610575,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713029,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610580,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713034,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610584,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713038,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610591,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713045,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610583,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713037,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            },
+            {
+                "id": 610587,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1713041,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "AVAILABLE"
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/278564"
+    },
+    {
+        "access": 1,
+        "address": "Ulmer Str. 21, 50739 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 357772,
+        "latitude": 50.966973,
+        "longitude": 6.938355,
+        "name": "Ulmer Str Parkplatz",
+        "stations": [
+            {
+                "id": 853428,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2378397,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/357772"
+    },
+    {
+        "access": 1,
+        "address": "Br\u00fcgelmannstra\u00dfe 3, 50679\u200e Keulen, Duitsland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 113136,
+        "latitude": 50.943744,
+        "longitude": 6.985739,
+        "name": "Radisson Blu Hotel parking garage",
+        "stations": [
+            {
+                "id": 193629,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 423748,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/113136"
+    },
+    {
+        "access": 1,
+        "address": "Arnoldiplatz 1, 50969 K\u00f6ln, Deutschland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 237280,
+        "latitude": 50.916827,
+        "longitude": 6.93886,
+        "name": "RheinEnergie Lades\u00e4ule",
+        "stations": [
+            {
+                "id": 514029,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1287038,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 514030,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1287039,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/237280"
+    },
+    {
+        "access": 1,
+        "address": "Niehler Kirchweg 39, 50733 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 355173,
+        "latitude": 50.969063,
+        "longitude": 6.951049,
+        "name": "[P] Parkplatz",
+        "stations": [
+            {
+                "id": 846268,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2368946,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 846269,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2368947,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/355173"
+    },
+    {
+        "access": 1,
+        "address": "K\u00f6ln Arcaden, Barcelona-Allee, 51103 K\u00f6ln, Deutschland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 226698,
+        "latitude": 50.938483,
+        "longitude": 6.996104,
+        "name": "K\u00f6ln Arcaden",
+        "score": 9.0,
+        "stations": [
+            {
+                "id": 495401,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1220191,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 495402,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1220192,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/226698"
+    },
+    {
+        "access": 1,
+        "address": "Neusser Stra\u00dfe 312, 50733 Keulen, Duitsland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 157384,
+        "latitude": 50.966203,
+        "longitude": 6.953568,
+        "name": "laterneladepunkt (1x 3,7kWh)",
+        "stations": [
+            {
+                "id": 308305,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 584767,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/157384"
+    },
+    {
+        "access": 1,
+        "address": "14 Helenenstr., K\u00f6ln, , Germany, 50667",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 103922,
+        "latitude": 50.939951,
+        "longitude": 6.945361,
+        "name": "Pullman Cologne hotel",
+        "score": 7.0,
+        "stations": [
+            {
+                "id": 266598,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 533319,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 176076,
+                "network_id": 35,
+                "outlets": [
+                    {
+                        "connector": 6,
+                        "id": 399992,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/103922"
+    },
+    {
+        "access": 1,
+        "address": "Kennedy-Ufer 2A, K\u00f6ln, , Germany, 50679",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 87468,
+        "latitude": 50.940403,
+        "longitude": 6.969018,
+        "name": "Hyatt Regency Hotel K\u00f6ln",
+        "stations": [
+            {
+                "id": 134988,
+                "network_id": 35,
+                "outlets": [
+                    {
+                        "connector": 6,
+                        "id": 333909,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/87468"
+    },
+    {
+        "access": 1,
+        "address": "Habsburgerring 9, 50674 K\u00f6ln, Duitsland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 352593,
+        "latitude": 50.935782,
+        "longitude": 6.938202,
+        "name": "Steigenberger Hotel K\u00f6ln",
+        "stations": [
+            {
+                "id": 839734,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2359726,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 839735,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2359727,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 839736,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2359728,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 839737,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2359729,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/352593"
+    },
+    {
+        "access": 1,
+        "address": "Tiefentalstra\u00dfe 39; 51063 K\u00f6ln",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 348046,
+        "latitude": 50.975593,
+        "longitude": 7.006779,
+        "name": "Tiefentalstra\u00dfe Parken / Laden",
+        "stations": [
+            {
+                "id": 826735,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2334169,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 2334170,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/348046"
+    },
+    {
+        "access": 1,
+        "address": "Br\u00fcgelmannstra\u00dfe, 50679 K\u00f6ln, Deutschland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 178197,
+        "latitude": 50.943711,
+        "longitude": 6.988624,
+        "name": "TankE K\u00f6lnmesse parkhaus ",
+        "stations": [
+            {
+                "id": 366258,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 657771,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 366259,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 657772,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/178197"
+    },
+    {
+        "access": 1,
+        "address": "Agrippastra\u00dfe 47, 50676 K\u00f6ln, Duitsland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 157385,
+        "latitude": 50.933109,
+        "longitude": 6.952302,
+        "name": "Agrippabad (2x 22kWh) ",
+        "score": 7.0,
+        "stations": [
+            {
+                "id": 308306,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 584768,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 584769,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 579250,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1593988,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 1593989,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/157385"
+    },
+    {
+        "access": 1,
+        "address": "Lungengasse 48, 50676\u200e Cologne, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 82735,
+        "latitude": 50.935129,
+        "longitude": 6.946362,
+        "name": "Parkhaus Lungengasse",
+        "score": 10.0,
+        "stations": [
+            {
+                "id": 121841,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 315550,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 121842,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 315551,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/82735"
+    },
+    {
+        "access": 1,
+        "address": "Clevischer Ring 129, K\u00f6ln, 51063, DE",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 277211,
+        "latitude": 50.976487,
+        "longitude": 7.003912,
+        "name": "Charging Station Digital Energy Solutions",
+        "stations": [
+            {
+                "id": 608773,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 1709409,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 1709410,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/277211"
+    },
+    {
+        "access": 1,
+        "address": "Auenweg 13, 50679\u200e K\u00f6ln, Deutschland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 112232,
+        "latitude": 50.943585,
+        "longitude": 6.973123,
+        "name": "Beim RTL",
+        "stations": [
+            {
+                "id": 191410,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 420639,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 420645,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 191411,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 420640,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 420644,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283918,
+                "outlets": [
+                    {
+                        "connector": 10,
+                        "id": 553991,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283915,
+                "outlets": [
+                    {
+                        "connector": 10,
+                        "id": 553988,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283916,
+                "outlets": [
+                    {
+                        "connector": 10,
+                        "id": 553989,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283917,
+                "outlets": [
+                    {
+                        "connector": 10,
+                        "id": 553990,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/112232"
+    },
+    {
+        "access": 1,
+        "address": "Charles-de-Gaulle-Platz 2, 50679 K\u00f6ln, Deutschland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 145598,
+        "latitude": 50.941716,
+        "longitude": 6.971934,
+        "name": "TankE Bahnhof Deutz",
+        "score": 9.0,
+        "stations": [
+            {
+                "id": 278262,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 547445,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283921,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 553994,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283922,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 553995,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 283923,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 553997,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/145598"
+    },
+    {
+        "access": 1,
+        "address": "Melateng\u00fcrtel 15, 50933 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 154629,
+        "latitude": 50.93847,
+        "longitude": 6.908944,
+        "name": "AMERON Hotel Regent",
+        "stations": [
+            {
+                "id": 297807,
+                "network_id": 35,
+                "outlets": [
+                    {
+                        "connector": 6,
+                        "id": 569759,
+                        "kilowatts": 11.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 297808,
+                "network_id": 35,
+                "outlets": [
+                    {
+                        "connector": 6,
+                        "id": 569760,
+                        "kilowatts": 11.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/154629"
+    },
+    {
+        "access": 1,
+        "address": "Richmodstra\u00dfe 13, 50667\u200e Cologne, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 97251,
+        "latitude": 50.937338,
+        "longitude": 6.947571,
+        "name": "Parkhaus Kreissparkasse K\u00f6ln",
+        "score": 9.0,
+        "stations": [
+            {
+                "id": 159320,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 373942,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 159321,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 373943,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 750881,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2234336,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "id": 750882,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2234337,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "id": 750883,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2234338,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "id": 750884,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2234339,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "UNKNOWN"
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/97251"
+    },
+    {
+        "access": 1,
+        "address": "Paul-Schall\u00fcck-Stra\u00dfe 6, 50939 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 29024,
+        "latitude": 50.920883,
+        "longitude": 6.934846,
+        "name": "Paul-Schall\u00fcck-Stra\u00dfe",
+        "stations": [
+            {
+                "id": 232210,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 738737,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "UNKNOWN"
+                    },
+                    {
+                        "connector": 7,
+                        "id": 738736,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "UNKNOWN"
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/29024"
+    },
+    {
+        "access": 1,
+        "address": "Wei\u00dfhausstra\u00dfe 1-5, 50939 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/A.png",
+        "icon_type": "A",
+        "id": 36910,
+        "latitude": 50.919167,
+        "longitude": 6.935833,
+        "name": "Renault",
+        "stations": [
+            {
+                "id": 225975,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 739177,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "CHARGING"
+                    },
+                    {
+                        "connector": 7,
+                        "id": 739178,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "CHARGING"
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/36910"
+    },
+    {
+        "access": 1,
+        "address": "Amsterdamer Str. 236B, 50735 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/GR.png",
+        "icon_type": "GR",
+        "id": 326718,
+        "latitude": 50.979354,
+        "longitude": 6.969788,
+        "name": "Amsterdamer Str. Parken / Laden (Coming Soon)",
+        "stations": [
+            {
+                "id": 766697,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2255433,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 766698,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2255434,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/326718"
+    },
+    {
+        "access": 1,
+        "address": "Neusser Str. 453, 50733 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 355846,
+        "latitude": 50.972484,
+        "longitude": 6.950571,
+        "name": "Physiotherapie Krankengymnastik Wenzel K\u00f6ln-Nippes",
+        "stations": [
+            {
+                "id": 848360,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2371608,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 848361,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2371609,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/355846"
+    },
+    {
+        "access": 1,
+        "address": "32, Sankt-Apern-Stra\u00dfe, 50667 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 276233,
+        "latitude": 50.939244,
+        "longitude": 6.946541,
+        "name": "STADTHOTEL am R\u00f6merturm",
+        "stations": [
+            {
+                "id": 672421,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2086935,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    },
+                    {
+                        "connector": 7,
+                        "id": 2086936,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 607683,
+                "network_id": 13,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2180697,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "OUTOFORDER"
+                    },
+                    {
+                        "connector": 7,
+                        "id": 2180694,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "OUTOFORDER"
+                    },
+                    {
+                        "connector": 7,
+                        "id": 2180696,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "OUTOFORDER"
+                    },
+                    {
+                        "connector": 7,
+                        "id": 2180693,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "OUTOFORDER"
+                    },
+                    {
+                        "connector": 7,
+                        "id": 2180699,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "OUTOFORDER"
+                    },
+                    {
+                        "connector": 7,
+                        "id": 2180698,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "OUTOFORDER"
+                    },
+                    {
+                        "connector": 7,
+                        "id": 2180700,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "OUTOFORDER"
+                    },
+                    {
+                        "connector": 7,
+                        "id": 2180695,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": "OUTOFORDER"
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/276233"
+    },
+    {
+        "access": 1,
+        "address": "Frohnhofstra\u00dfe 130, 50827 K\u00f6ln, Deutschland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 346710,
+        "latitude": 50.967823,
+        "longitude": 6.899779,
+        "name": "Sparkasse K\u00f6lnBonn - SB-Standort",
+        "stations": [
+            {
+                "id": 823318,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2329576,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            },
+            {
+                "id": 823319,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2329577,
+                        "kilowatts": 22.0,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/346710"
+    },
+    {
+        "access": 1,
+        "address": "Johannisstra\u00dfe 72, 50668 K\u00f6ln, Germany",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 332080,
+        "latitude": 50.944844,
+        "longitude": 6.960817,
+        "name": "Johannisstra\u00dfe Parken / Laden",
+        "stations": [
+            {
+                "id": 781784,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 2275446,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/332080"
+    },
+    {
+        "access": 1,
+        "address": "Neusser Stra\u00dfe 218, 50733 Keulen, Duitsland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 157382,
+        "latitude": 50.961829,
+        "longitude": 6.954467,
+        "name": "laterneladepunkt (1x 3,7kWh)",
+        "stations": [
+            {
+                "id": 308303,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 584765,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/157382"
+    },
+    {
+        "access": 1,
+        "address": "Neusser Stra\u00dfe 230, 50733 Keulen, Duitsland",
+        "icon": "https://assets.plugshare.com/icons/G.png",
+        "icon_type": "G",
+        "id": 157383,
+        "latitude": 50.962442,
+        "longitude": 6.954302,
+        "name": "laterneladepunkt (1x 11kWh)",
+        "stations": [
+            {
+                "id": 308304,
+                "outlets": [
+                    {
+                        "connector": 7,
+                        "id": 584766,
+                        "kilowatts": null,
+                        "power": 0,
+                        "status": null
+                    }
+                ]
+            }
+        ],
+        "url": "http://api.plugshare.com/view/location/157383"
+    }
+]

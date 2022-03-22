@@ -1,7 +1,8 @@
 import requests
 import math
 import pymongo
-from credentials import uri
+from repository.db import initDB
+from repository.local_data_loader import loadLocalData
 
 
 url = "https://api.placetoplug.com/go/graphql"
@@ -49,15 +50,8 @@ query = """query Query ($query: FindChargingZone!) {
 }
 """
 
-def initDB():
-    client = pymongo.MongoClient(uri)
-    DB_NAME = "test-db"
-    db = client[DB_NAME]
-    collection = db.placetoplug
-    return collection
-
 def load_one():
-    collection = initDB()
+    collection = initDB("placetoplug")
     #TODO adjust queery variables
     variables = {"query": {"limit":2}}
     r=requests.post(url, json={"query": query, "variables":variables, "operationName": 'Query' } )
@@ -66,7 +60,7 @@ def load_one():
     collection.insert_one(data)
 
 def load_all():
-    collection = initDB()
+    collection = initDB("placetoplug")
     variables = {"query": {"limit":50}}
     r=requests.post(url, json={"query": query, "variables":variables, "operationName": 'Query' } )
     for i in range(len(r.json()["data"]["findChargingZones"]["chargingZones"])):
@@ -74,7 +68,13 @@ def load_all():
       data = r.json()["data"]["findChargingZones"]["chargingZones"][i]
       collection.insert_one(data)
 
-            
+def load_from_local(filename):
+    collection = initDB("placetoplug_cologne")
+    d = loadLocalData('data\\placetoplug_cologne.json')
+    for i in range(len(d["data"]["findChargingZones"]["chargingZones"])):
+      print(i)
+      data = d["data"]["findChargingZones"]["chargingZones"][i]
+      collection.insert_one(data)    
 
 if __name__ == '__main__':
     load_all()
